@@ -5,7 +5,14 @@ function percentage(marks, total) {
   return (marks * 100) / total;
 }
 
-// Your code goes here
+let percentage = function (marks, total) {
+  return (marks * 100) / total;
+}
+
+
+let percentage = (marks, total) => {
+  return (marks * 100) / total;
+}
 ```
 
 2. Write Function Declaration or Function Expression next to the function.
