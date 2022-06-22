@@ -3,6 +3,7 @@
 2. Where the JavaScript code gets executed?
 
 3. What does context means in Global Execution Context?
+Ans: is the first execution context that gets created by javaScript engine whenever its running your code  for the first time.
 
 4. When do you create a global execution context.
 
