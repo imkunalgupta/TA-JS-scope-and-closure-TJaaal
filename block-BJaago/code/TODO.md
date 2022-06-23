@@ -66,7 +66,7 @@ sayHi();
 
 ```js
 console.log(arr); // output
-console.log(username); // output
+console.log(username); //sam
 var usename = 'Sam';
 var arr = [1, 2, 3, 4, 5, 6];
 
