@@ -12,9 +12,9 @@ function change() {
   console.log(species);
 }
 
-console.log(species); // 1
+console.log(species); // human
 change();
-console.log(species); // 2
+console.log(species); // vampire
 ```
 
 <!-- Put your image below -->
