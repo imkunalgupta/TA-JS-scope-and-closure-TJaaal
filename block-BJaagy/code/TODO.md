@@ -1,5 +1,13 @@
 1. Create a function by your choice that accepts a callback function.
-
+```js
+function operation(str, opFn) {
+  return opFn(str);
+}
+console.log(
+  operation("Learning to FullStack", function (text) {
+    return text.toUpperCase();
+  })
+)
 2. Create a function by you choice that returns a function reference.
 
 3. Create a higher order function called `map` that takes two inputs:
