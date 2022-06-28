@@ -18,7 +18,9 @@ function multiplyBy5(n) {
 }
 let numbersAddedFive = multiplyArrayByN(marks, addFive);
 let numbersMultipliedBy5 = multiplyArrayByN(marks, multiplyBy5);
+// In above code snippet multiplyArrayByN is higher order function and addFive as well as multiplyBy is callback function.
 ```
+
 
 2. Create the execution context diagram of the above code snippet
 
