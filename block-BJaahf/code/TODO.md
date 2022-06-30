@@ -10,7 +10,7 @@
 **You can use normal for loop for this function**
 
 ```js
-function loop() {
+function loop(arr) {
   // Your code goes here
 }
 
